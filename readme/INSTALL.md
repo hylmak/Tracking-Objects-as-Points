@@ -19,7 +19,7 @@ After installing Anaconda:
 1. Install PyTorch:
 
     ~~~
-    conda install pytorch torchvision -c pytorch
+    pip install torch==1.4.0 torchvision==0.5.0
     ~~~
     
 
