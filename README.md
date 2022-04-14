@@ -63,9 +63,10 @@ All models and details are available in our [Model zoo](readme/MODEL_ZOO.md).
 Please refer to [INSTALL.md](readme/INSTALL.md) for installation instructions.
 
 
-## Benchmark Evaluation and Training
+## Reproduction and new experiments
 
 After [installation](readme/INSTALL.md), follow the instructions in [DATA.md](readme/DATA.md) to setup the datasets. Then check [GETTING_STARTED.md](readme/GETTING_STARTED.md) to reproduce the results in the paper.
+
 Our own scripts for reproducing the results, hyperparamter check, ablation study and new data can be found in the [experiments](experiments) folder.
 
 ## License
